@@ -1,5 +1,7 @@
 # Instagram Brute Force attack Tool
 
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
+
     I have modified this tool for making it more interactive with it's users.
     
 Steps to be followed after cloneing the URL
